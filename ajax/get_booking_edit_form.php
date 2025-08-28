@@ -196,3 +196,4 @@ function formatCurrency(amount) {
     }).format(amount);
 }
 </script>
+

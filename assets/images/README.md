@@ -59,3 +59,4 @@ Before adding images:
 ## Placeholder Images
 
 Until you add your own images, the CSS will use solid color backgrounds with the golden theme colors.
+

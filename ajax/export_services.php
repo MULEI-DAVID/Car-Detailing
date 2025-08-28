@@ -67,3 +67,4 @@ while ($row = $result->fetch_assoc()) {
 
 fclose($output);
 exit();
+

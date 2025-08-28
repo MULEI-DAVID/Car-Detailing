@@ -39,3 +39,4 @@ while ($vehicle = $result->fetch_assoc()) {
 header('Content-Type: application/json');
 echo json_encode($vehicles);
 ?>
+

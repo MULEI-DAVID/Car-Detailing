@@ -121,3 +121,4 @@ try {
     $conn->rollback();
     echo json_encode(['success' => false, 'message' => 'Error updating booking: ' . $e->getMessage()]);
 }
+

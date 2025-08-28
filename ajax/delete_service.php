@@ -85,3 +85,4 @@ try {
     $conn->rollback();
     echo json_encode(['success' => false, 'message' => 'Error deleting service: ' . $e->getMessage()]);
 }
+
